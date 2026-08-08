@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/CPavan-99120/Applied-programming-skills/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/CPavan-99120/Applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
@@ -13,4 +14,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/CPavan-99120/Applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/CPavan-99120/Applied-programming-skills/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/CPavan-99120/Applied-programming-skills/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/CPavan-99120/Applied-programming-skills/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/CPavan-99120/Applied-programming-skills/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
